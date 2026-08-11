@@ -8,8 +8,8 @@ This repository is a personal attempt to automate the process of converting the 
 <table>
 <tr>
 <td>
-<img src="./original.png">
-<td><img src="./image.png"></td>
+<img src="./img/original.png">
+<td><img src="./img/image.png"></td>
 </td>
 </tr>
 </table>
@@ -42,7 +42,7 @@ so, I thought that it would be more permanent solution for this problem to conve
 
 ## Flow design
 
-![architecture](architecture.png)
+![architecture](./img/architecture.png)
 
 ## License
 
