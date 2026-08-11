@@ -47,9 +47,6 @@ so, I thought that it would be more permanent solution for this problem to conve
 2. Run the _veritasium.py_ file inside the folder using the following command.
 `python3.12 veritasium.py`
 
-## Demo video
-[![Watch the video](https://raw.githubusercontent.com/iammohamedafran/veritasium-unshort/master/demo/thumbnail.png)](https://raw.githubusercontent.com/iammohamedafran/veritasium-unshort/master/demo/demo.mp4)
-
 ## Flow design
 
 ![architecture](./img/architecture.png)
