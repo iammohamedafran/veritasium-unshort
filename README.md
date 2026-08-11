@@ -47,7 +47,10 @@ so, I thought that it would be more permanent solution for this problem to conve
 2. Run the _veritasium.py_ file inside the folder using the following command.
 `python3.12 veritasium.py`
 
-
+## Demo video
+<video width="420" height="240" controls>
+  <source src="./demo/demo.mp4" type="video/mp4">
+</video>
 
 ## Flow design
 
