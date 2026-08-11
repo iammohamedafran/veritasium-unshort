@@ -92,8 +92,6 @@ if __name__ == "__main__":
     main()
 
 ############################################################
-import json
-import re
 
 
 JSON_FILE = "description_segments.json"
@@ -327,10 +325,6 @@ with open(OUTPUT_MD, "w", encoding="utf-8") as f:
 print(f"\nDone! Saved to {OUTPUT_MD}")
 
 ####################################################
-
-import re
-import requests
-
 
 def google_doc_to_export_url(url: str) -> str | None:
     match = re.search(r"/document/d/([a-zA-Z0-9_-]+)", url)
@@ -568,7 +562,6 @@ print("Markdown updated successfully.")
 
 
 ################################################
-import subprocess
 
 uri = (
     f'obsidian://adv-uri?filepath={OUTPUT_MD}'
