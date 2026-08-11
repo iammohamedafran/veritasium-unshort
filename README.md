@@ -21,7 +21,7 @@ so, I thought that it would be more permanent solution for this problem to conve
 
 ## What you will need to run
 
-- Python language
+- Python 3.12
 - Obsidian _(for converting into pdfs)_
 
 ## Working
@@ -40,9 +40,19 @@ so, I thought that it would be more permanent solution for this problem to conve
 7. if yes, it finishes the whole process by converting the MD into PDF file using Obsidian
 
 
+## Usage 
+
+1. Install **yt_dlp** , **requests** package using pip installer in a folder.
+
+2. Run the _veritasium.py_ file inside the folder using the following command.
+`python3.12 veritasium.py`
+
+
+
 ## Flow design
 
 ![architecture](./img/architecture.png)
+
 
 ## License
 
